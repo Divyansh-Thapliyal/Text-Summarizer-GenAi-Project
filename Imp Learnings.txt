@@ -1,0 +1,14 @@
+
+These are all common libraries used in GenAI projects — looks like you're preparing for serious stuff like:
+
+Text/Image generation (transformers, diffusers, peft)
+
+CUDA GPU support (ctransformers[cuda])
+
+Web UI (gradio, streamlit)
+
+Performance optimization (accelerate)
+
+PDF handling (pypdf)
+
+Image handling (Pillow)
